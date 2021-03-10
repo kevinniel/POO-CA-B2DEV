@@ -12,10 +12,13 @@ class Dices
     public $sumDices;
     public $isDouble;
 
+    public static $cpt = 0;
+
     public function __construct()
     {
         $this->dice1 = new Dice();
         $this->dice2 = new Dice();
+        self::$cpt++;
     }
 
     public function roll()
