@@ -1,6 +1,7 @@
 <?php
 
-use Classes\Dices;
+// use Classes\Dices;
+require_once('Classes/Dices.php');
 
 $d = new Dices();
 echo("valeur initiale : <br>");

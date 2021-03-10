@@ -1,8 +1,9 @@
 <?php
 
-namespace Classes;
+// namespace Classes;
 
-use Classes\Dice;
+// use Dice;
+require_once('Dice.php');
 
 class Dices
 {
