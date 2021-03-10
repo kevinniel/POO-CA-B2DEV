@@ -1,6 +1,8 @@
 <?php
 
-require_once("Dice.php");
+namespace Classes;
+
+use Classes\Dice;
 
 class Dices
 {
@@ -17,8 +19,8 @@ class Dices
 
     public function roll()
     {
-        $this->dice1.roll();
-        $this->dice2.roll();
+        $this->dice1->roll();
+        $this->dice2->roll();
         $this->updateSum();
         $this->updateDouble();
     }

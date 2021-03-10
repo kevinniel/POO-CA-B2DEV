@@ -1,10 +1,12 @@
 <?php
 
-require_once('Classes/Dice.php');
+use Classes\Dices;
 
-$d = new Dice();
+$d = new Dices();
 echo("valeur initiale : <br>");
-echo($d->currentValue);
+echo($d->dice1->currentValue);
+echo($d->dice2->currentValue);
 $d->roll();
 echo("<br><br>valeur après lancement : ");
-echo($d->currentValue);
+echo($d->dice1->currentValue);
+echo($d->dice2->currentValue);
