@@ -7,17 +7,8 @@ echo('<h1>gestion concession</h1>');
 
 // création concession
 $concession = new Concession("toto");
-// var_dump($concession);
+// intégration des voitures et des motos dans la concession
 $concession->addCars($CARS);
 $concession->addBikes($BIKES);
-
+// calcul du nombre total de roues dans la concession
 echo($concession->countWheels());
-
-// echo("<pre><code>");
-// var_dump($concession);
-// echo("</code></pre>");
-
-
-
-
-echo("<br>");
