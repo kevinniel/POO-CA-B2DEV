@@ -27,11 +27,10 @@ recréer l'ensemble du code métier permettant de gérer l'API, en se basant sur
 
 ### Implémentation de concepts orientés objets __/14__
 - Déclaration d'au moins 5 classes __/2__
-- Utilisation de l'héritage __/2__
-- Utilisation du constructeur parent __/2__
+- Utilisation de l'héritage __/3__
+- Utilisation du constructeur parent __/3__
 - Utilisation d'interface(s) __/2__
 - Utilisation du constructeur __/2__
-- Utilisation du destructeur __/2__
 - Architecture des fichiers propre __/2__
 
 ### Bonus /2
