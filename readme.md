@@ -34,7 +34,7 @@ recréer l'ensemble du code métier permettant de gérer l'API, en se basant sur
 - Utilisation du destructeur __/2__
 - Architecture des fichiers propre __/2__
 
-### Bonus /4
+### Bonus /2
 ```
 NB : Les bonus seront rajoutés au nombre de points totaux obtenus sur 20 points.
 ```
