@@ -41,3 +41,8 @@ NB : Les bonus seront rajoutés au nombre de points totaux obtenus sur 20 points
 - Implémentation du design pattern Factory __/1__
 - Implémentation du design pattern Singleton __/1__
 
+## Rendus
+
+Les livrables devront être transmis via __l'URL d'un repository github de visibilité public__, à l'addresse mail : k.niel.pro@gmail.com . La date de rendu étant le 17 Juin à 17h.
+
+Tout travail non rendu en temps et en heure ne sera pas corrigé et vaudra un travail "non rendu" sur votre relevé de note hyperplanning.
